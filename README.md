@@ -1,52 +1,54 @@
 # Mongooes-mongoDB
+
 # MongoDB CRUD Operations Assignment
 
-This repository contains my MongoDB CRUD operations assignment, prepared as part of my Database Management Systems (DBMS) coursework. The assignment demonstrates practical usage of MongoDB through hands-on database operations and real-world use cases.
+This repository contains my MongoDB CRUD Operations assignment prepared as part of the **Database Management Systems (DBMS)** coursework. The project demonstrates basic to advanced MongoDB operations using the MongoDB Shell.
+
+---
+
+## 📄 Assignment Overview
+
+The assignment focuses on understanding MongoDB concepts through hands-on practice. It includes database creation, CRUD operations, query operators, and a real-world use case implementation.
+
+---
 
 # 📄 Assignment File
 
 MongoDB_CRUD_Assignment.pdf
 The PDF includes step-by-step MongoDB command execution along with explanations and output screenshots.
 
-# 📌 Topics Covered
+---
 
-Introduction to MongoDB
+## 📌 Topics Covered
 
-Database and Collection creation
+- Introduction to MongoDB
+- Database and Collection Creation
+- Insert Operations (`insertOne`, `insertMany`)
+- Read Operations (`find`, filter queries)
+- Update Operations (`updateOne`, `updateMany`)
+- Delete Operations (`deleteOne`, `deleteMany`)
+- MongoDB Query Operators (`$in`, `$or`, `$gt`, `$lt`, `$exists`)
+- Real-World Use Case (Library Management System)
 
-Insert operations (insertOne, insertMany)
+---
 
-Read operations (find, filter queries)
+## 🛠 Tools & Technologies Used
 
-Update operations (updateOne, updateMany)
+- MongoDB
+- MongoDB Shell (`mongosh`)
+- MS Word (for documentation)
+- PDF format (for assignment submission)
 
-Delete operations (deleteOne, deleteMany)
+---
 
-MongoDB query operators ($in, $or, $gt, $exists)
+## 🎯 Objective
 
-Real-world use case (Library Management System)
+To understand the fundamentals of MongoDB and perform CRUD operations using proper commands, filters, and query operators while applying them to a real-world scenario.
 
- # 🛠 Tools Used
+---
 
-MongoDB Shell (mongosh)
-
-MS Word (for documentation)
-
-PDF format (for assignment submission)
-
- # 🎯 Objective
-
-To understand the fundamentals of MongoDB and perform CRUD operations efficiently using MongoDB commands and query operators.
-
-# 🧑‍🎓 Student Details
-
-Name: Your Name
-
-Register No: Your Register Number
-
-Department: Your Department
-
-# 📂 Repository Structure
+## 📂 Repository Structure
 📁 MongoDB-CRUD-Assignment
- ├── MongoDB_CRUD_Assignment.pdf
- └── README.md
+├── MongoDB_CRUD_Assignment.pdf
+├── Screenshots/
+└── README.md
